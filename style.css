@@ -1,0 +1,117 @@
+
+body{
+    background-color: bisque;
+}
+
+.glava{
+    text-align: center;
+    font-family: monospace;
+    color: cadetblue;
+
+}
+.fir{
+    color: darkgrey;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: medium;
+
+
+}
+.container {
+    display: flex; /* Используем Flexbox для центрирования */
+    justify-content: center; /* Центрируем по горизонтали */
+    align-items: center; /* Центрируем по вертикали */
+    height: 100vh; /* Устанавливаем высоту контейнера на 100% высоты окна */
+}
+
+.center-image {
+    max-width: 100%; /* Чтобы изображение не выходило за пределы контейнера */
+    height: auto; /* Сохраняем пропорции изображения */
+}
+h1{
+  color: rgb(235, 0, 0);
+  font: 40px Georgia;  
+  margin-left: 300px;  
+  
+}
+.descript{
+  width: 300px;  
+  color: rgb(188, 192, 192);
+  font-style: italic;
+  margin: 70px 0 0 30px;  
+  text-align: center;
+  font-size:22px; 
+  
+}
+#header{
+    width: 2000px;
+    height: 300px;
+    background-color: #8de634;
+    margin-bottom: 10px;
+    background-image: url(https://www.visitlondon.com/-/media/images/london/visit/whats-on/special-events/new-years-eve-fireworks/new-years-eve-2-1920x582.jpg?rev=08686a3f828e4d9d944744d1bdd38f8e&mw=1920&hash=C02047BE3F9DA007CDE593EF543276D4);}
+    
+.london{
+    float: left;
+}
+.paris{
+    float: left;
+}
+#header2{
+    width: 2000px;
+    height: 300px;
+    background-color: #ff00b7;
+    margin-bottom: 10px;
+    background-image: url(https://nyc.eu/wp-content/uploads/2015/07/New_York_City-scaled.jpg);
+}
+.ty{
+    color: cadetblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#header3{
+    width: 2000px;
+    height: 300px;
+    background-color: #25B33f;
+    margin-bottom: 10px;
+    background-image :url(https://d3iso9mq9tb10q.cloudfront.net/magefan_blog/Paris-at-night_banner.jpg);
+    
+    
+}
+.tyty{
+    color: lightskyblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.diana{
+    float: left;
+}
+.davidb{
+    float: right;
+}
+.london2{
+    float: left;
+}
+.ny2{
+    float: left;
+}
+#header4{
+    width: 2000px;
+    height: 300px;
+    background-color: #25B33f;
+    margin-bottom: 10px;
+    background-image: url(https://images.musement.com/cover/0002/49/london-jpeg_header-148518.jpeg?q=50&fit=crop&auto=format&w=1024&h=400);
+}
+#header5{
+    width: 2000px;
+    height: 300px;
+    background-color: #8dcaff;
+    margin-bottom: 10px;
+    background-image: url(https://www.visittheusa.com/sites/default/files/styles/state_hero_l/public/images/hero_media_image/2023-04/ae0806a3-3615-4f3d-9634-c4cc649b40b4.jpeg?h=c3cd4968&itok=52K2-8sq);
+
+}
+.food{
+    float: right;
+}
+.tyty2{
+    text-align: left;
+    color: cadetblue;
+}
